@@ -1,0 +1,1 @@
+declare const State: TwineStat; // error in both vscode and tsc

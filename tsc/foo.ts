@@ -1,0 +1,1 @@
+type TwinStat = { foo: number };
